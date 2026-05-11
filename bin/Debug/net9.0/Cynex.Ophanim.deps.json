@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cynex.Ophanim/1.0.1": {
+        "runtime": {
+          "Cynex.Ophanim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cynex.Ophanim/1.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

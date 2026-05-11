@@ -1,0 +1,11 @@
+﻿{
+    "HomeGuid": "0090f230-d105-4b75-ac51-ee824ac01e65", 
+    "PackageId": "4a94cd5a-9dad-4f97-b1fb-d503061544e2",
+    "RootNamespace": "Cynex.Ophanim",
+    "AssemblyFileName": "Cynex.Ophanim",
+    "Version": "1.0.1",
+    "EditorVersion": "4.0.6",
+    "IsEditorOnly": "false",
+    "OperatorPackages": [
+    ]
+}

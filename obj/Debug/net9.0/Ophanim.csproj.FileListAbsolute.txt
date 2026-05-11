@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\TiXL\Ophanim\bin\Debug\net9.0\PlaceNativeDllDependenciesHere.txt
+C:\Users\chris\Documents\TiXL\Ophanim\bin\Debug\net9.0\Cynex.Ophanim.deps.json
+C:\Users\chris\Documents\TiXL\Ophanim\bin\Debug\net9.0\Cynex.Ophanim.dll
+C:\Users\chris\Documents\TiXL\Ophanim\bin\Debug\net9.0\Cynex.Ophanim.pdb
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Ophanim.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Ophanim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Ophanim.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Ophanim.AssemblyInfo.cs
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Ophanim.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Cynex.Ophanim.dll
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\refint\Cynex.Ophanim.dll
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Cynex.Ophanim.pdb
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\ref\Cynex.Ophanim.dll

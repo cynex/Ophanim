@@ -1,0 +1,34 @@
+{
+  "root": true,
+  "hlsl.preprocessorDefinitions": [],
+  "hlsl.additionalIncludeDirectories": [
+    ".",
+    "C:/Users/chris/Documents/TiXL/Ophanim/Assets",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/examples/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/lib/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/Mediapipe/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/ndi/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/skills/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/spout/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/TypeOperators/Assets/shaders/",
+    "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/unsplash/Assets/shaders/",
+    "C:/Users/chris/Documents/TiXL/Asmondgold/Assets/shaders/",
+    "C:/Users/chris/Documents/TiXL/MyProject/Assets/shaders/",
+    "C:/Users/chris/Documents/TiXL/Ophanim/Assets/shaders/",
+    "C:/Users/chris/Documents/TiXL/TixlHangout/Assets/shaders/"
+  ],
+  "hlsl.virtualDirectoryMappings": {
+    "/Cynex.Ophanim": "C:/Users/chris/Documents/TiXL/Ophanim/Assets/shaders/",
+    "/Examples": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/examples/Assets/shaders/",
+    "/Lib": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/lib/Assets/shaders/",
+    "/Mediapipe": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/Mediapipe/Assets/shaders/",
+    "/t3.ndi": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/ndi/Assets/shaders/",
+    "/Skills": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/skills/Assets/shaders/",
+    "/t3.spout": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/spout/Assets/shaders/",
+    "/Types": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/TypeOperators/Assets/shaders/",
+    "/t3.unsplash": "C:/Program Files/TiXL/TiXL 4.1.1.1/Operators/unsplash/Assets/shaders/",
+    "/Cynex.Asmondgold": "C:/Users/chris/Documents/TiXL/Asmondgold/Assets/shaders/",
+    "/Cynex.MyProject": "C:/Users/chris/Documents/TiXL/MyProject/Assets/shaders/",
+    "/Cynex.TixlHangout.TixlHangout": "C:/Users/chris/Documents/TiXL/TixlHangout/Assets/shaders/"
+  }
+}
