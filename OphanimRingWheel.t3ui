@@ -1153,6 +1153,13 @@
       }
     },
     {
+      "ChildId": "ded995dc-601a-4e50-b351-386bcc9e315e"/*Multiply*/,
+      "Position": {
+        "X": 6535.7725,
+        "Y": 307.0979
+      }
+    },
+    {
       "ChildId": "e12df88d-62d2-473a-97b8-6d60e715d653"/*SetMaterial*/,
       "Position": {
         "X": 5712.617,

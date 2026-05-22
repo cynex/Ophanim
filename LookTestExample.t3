@@ -288,18 +288,6 @@
       "Outputs": []
     },
     {
-      "Id": "72873111-421f-49d9-b2d8-8445858f7e4d"/*LoadImage*/,
-      "SymbolId": "0b3436db-e283-436e-ba85-2f3a1de76a9d",
-      "InputValues": [
-        {
-          "Id": "76cc3811-4ae0-48b2-a119-890db5a4eeb2"/*Path*/,
-          "Type": "System.String",
-          "Value": "Examples:hdri/sunset.png"
-        }
-      ],
-      "Outputs": []
-    },
-    {
       "Id": "72fecdae-df5d-4cb1-a2b0-d7d99fd98775"/*DrawMeshAtPoints*/,
       "SymbolId": "42cb88bc-beb8-4d89-ac99-44b77be5f03e",
       "InputValues": [],
@@ -373,12 +361,6 @@
           "Value": 666.0
         }
       ],
-      "Outputs": []
-    },
-    {
-      "Id": "80a763ce-be5d-4234-a60f-f86c26aae27b"/*TextureToCubeMap*/,
-      "SymbolId": "e85d98cf-9240-4f5d-8df6-35425d325778",
-      "InputValues": [],
       "Outputs": []
     },
     {
@@ -656,12 +638,6 @@
       "TargetSlotId": "777b2c27-a3c8-40d0-a196-80a08af51296"
     },
     {
-      "SourceParentOrChildId": "80a763ce-be5d-4234-a60f-f86c26aae27b",
-      "SourceSlotId": "a3c61268-e57c-4ab0-939c-6fc4da0fc574",
-      "TargetParentOrChildId": "44418fe9-1d8b-4e72-9e91-b1e4e179f2b0",
-      "TargetSlotId": "5c042a08-74b3-4a6b-a420-2fcfa0fc01ee"
-    },
-    {
       "SourceParentOrChildId": "2e92d8fe-8f92-46a1-9916-5ce23ebaeaed",
       "SourceSlotId": "32b87a4d-bef3-4646-be76-8f8224ebd5c2",
       "TargetParentOrChildId": "44418fe9-1d8b-4e72-9e91-b1e4e179f2b0",
@@ -726,12 +702,6 @@
       "SourceSlotId": "b20573fe-7a7e-48e1-9370-744288ca6e32",
       "TargetParentOrChildId": "7f5861ac-c0f0-48e0-8dd4-1111cb9da7a2",
       "TargetSlotId": "cb3ae9c7-5146-4bc6-9a87-3d17012fab52"
-    },
-    {
-      "SourceParentOrChildId": "72873111-421f-49d9-b2d8-8445858f7e4d",
-      "SourceSlotId": "e0c4fedd-5c2f-46c8-b67d-5667435fb037",
-      "TargetParentOrChildId": "80a763ce-be5d-4234-a60f-f86c26aae27b",
-      "TargetSlotId": "d5aa1045-5471-42c3-bfc2-c5fa9663817f"
     },
     {
       "SourceParentOrChildId": "cc1919f9-2868-4d58-b940-674d4d37cdd6",

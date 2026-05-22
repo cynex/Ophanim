@@ -95,13 +95,6 @@
       }
     },
     {
-      "ChildId": "72873111-421f-49d9-b2d8-8445858f7e4d"/*LoadImage*/,
-      "Position": {
-        "X": 1429.981,
-        "Y": 711.66797
-      }
-    },
-    {
       "ChildId": "72fecdae-df5d-4cb1-a2b0-d7d99fd98775"/*DrawMeshAtPoints*/,
       "Position": {
         "X": 504.0918,
@@ -127,13 +120,6 @@
       "Position": {
         "X": 359.13672,
         "Y": 310.79883
-      }
-    },
-    {
-      "ChildId": "80a763ce-be5d-4234-a60f-f86c26aae27b"/*TextureToCubeMap*/,
-      "Position": {
-        "X": 1579.981,
-        "Y": 711.66797
       }
     },
     {
