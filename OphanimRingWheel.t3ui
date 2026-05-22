@@ -474,13 +474,6 @@
       }
     },
     {
-      "ChildId": "66ecbe01-1e5a-45c5-96f2-97ea071ac857"/*_PointShaderTemplate*/,
-      "Position": {
-        "X": 6518.252,
-        "Y": 3783.79
-      }
-    },
-    {
       "ChildId": "6778e76d-e2ab-474a-8d12-348142cdb7bc"/*DrawMeshAtPoints*/,
       "Position": {
         "X": 4081.6274,
