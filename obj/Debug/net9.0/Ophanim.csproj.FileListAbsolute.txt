@@ -11,3 +11,4 @@ C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Cynex.Ophanim.dll
 C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\refint\Cynex.Ophanim.dll
 C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Cynex.Ophanim.pdb
 C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\ref\Cynex.Ophanim.dll
+C:\Users\chris\Documents\TiXL\Ophanim\obj\Debug\net9.0\Ophanim.sourcelink.json
